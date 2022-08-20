@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1660996156433.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3841804146",
+    "id" : "F8D693ED",
+    "lastKnownWriteTime" : 1660996182,
+    "last_content_update" : 1660996182439,
+    "path" : "~/HomePricePredictionProject/HomePricePrediction.R",
+    "project_path" : "HomePricePrediction.R",
+    "properties" : {
+        "cursorPosition" : "358,0",
+        "scrollLine" : "343",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
